@@ -1,2 +1,4 @@
-/.git
-/.gihub
+.git/
+.gihub/
+.gitignore
+README.md
