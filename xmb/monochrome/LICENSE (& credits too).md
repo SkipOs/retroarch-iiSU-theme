@@ -1,6 +1,6 @@
 iiSUcore Theme for RetroArch
-====================
-iiSU core was Built on top of FlatUX, and merged resurces from UsagiiShade.
+=============================
+iiSUcore was Built on top of FlatUX, and merged resurces from UsagiShade and iiSU Discord community.
 
 ## About FlatUX
 -----------------
@@ -28,7 +28,8 @@ Source files for this theme can be found on the [baxy-retroarch-themes] (https:/
 ### Export
  * The original source files were created with Adobe Illustrator and saved as PDF files. The SVG and PNG files can be created using the ImageMagick Mogrify command.
 
-## About Usagi
+## UsagiShade amazing job
+ * A lot of the assets came from [UsagiShade](https://www.youtube.com/@usagishade) concepts. While he isn't afilliated with iiSU anymore, his designs kinda shaped iiSU concepts so I've incorporated some of that stuff here too!
 
 ## Theme Font
  * This theme uses the [Continuum](https://fontmeme.com/fonts/continuum-font/). I wasn't able to find about the licensing, the further I've got to find about it was that it was made by Broderbund, an American software company that isn't around anymore.
