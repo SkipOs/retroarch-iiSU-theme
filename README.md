@@ -9,11 +9,13 @@ PC pals make do, don't we?
 
 1. **Download** this repository as a ZIP or clone it.
 2. **Locate your RetroArch Assets folder.** (Usually found in `RetroArch/assets/`).
-3. **Drag and drop**  ``everything`` folder into the `assets` directory.
+3. **Drag and drop** ``everything`` into the `assets` directory.
 4. **Open RetroArch** and go to:
    - `Settings` -> `User Interface` -> `Appearance`.
    - Change **Menu Icon Theme** to `monochrome` (or the specific folder name if you renamed it).
-   - Ensure **Menu Audio** and **Background Music** are enabled in `Settings` -> `Audio` to enjoy the custom sounds. If sounds crappy sometimes disable everything but BGM and OK/Cancel sounds.
+   - Turn `OFF` **Shadow Effects**
+   - Set **Font Color (Red), (Green), and (Blue)** to `130` (they should all have the same value)
+   - Ensure **Menu Audio** and **Background Music** are enabled in `Settings` -> `Audio` to enjoy the custom sounds. If sounds are sometimes glitchy/poor, disable everything except for BGM and OK/Cancel sounds.
 
 ---
 
