@@ -3,6 +3,7 @@
 > A community-crafted XMB theme for RetroArch, born from **FlatUX**, shaped by **UsagiShade**.  
 > PC pals make do, don't we?
 
+> Create an Issue if you want priority on some icons first.
 ---
 
 ## 📑 Index
